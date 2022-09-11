@@ -1,0 +1,20 @@
+import:
+  - ~/.config/bspwm/alacritty/colors.yml
+
+font:
+  normal:
+    family: FantasqueSansMono Nerd Font
+    style: Italic
+  size: 14
+
+window:
+  padding:
+    x: 10
+    y: 10
+    dynamic_padding: true
+
+live_config_reload: true
+
+cursor:
+  style: Beam
+  vi_style_cursor: Beam
